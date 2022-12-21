@@ -1,0 +1,37 @@
+[
+  {
+    "id": 2,
+    "title": "Hacka löken",
+    "description": "tills den blir mjuk och något genomskinlig",
+    "dueDate": "2022-12-22",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "title": "Stek köttfärsen",
+    "description": "tillsätt krossade tomater när färsen är genomstekt",
+    "dueDate": "2022-12-22",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "Krydda",
+    "description": "krydda och låt puttra medan du gör den vita såsen",
+    "dueDate": "2022-12-22",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "title": "Vit sås",
+    "description": "blanda mjöl, och smält smör. vispa till klumpfritt, tillsätt sedan mjölken under omrörning",
+    "dueDate": "2022-12-22",
+    "completed": false
+  },
+  {
+    "id": 6,
+    "title": "Fördela vit sås i ugnsform",
+    "description": "häll i hälften av den vita såsen i botten på formen",
+    "dueDate": "2022-12-22",
+    "completed": false
+  }
+]
